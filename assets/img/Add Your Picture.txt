@@ -1,0 +1,12 @@
+To replace the images with your own, 
+add your profile picture and your banner picture in this folder (img). 
+Rename your images as shown in the example. 
+
+Profile picture: mypicture
+Banner image: MyBannerPicture
+Make sure your images are in .jpg format
+
+(If you are more comfortable with HTML and CSS, 
+you can change the name of the images directly in the 
+index.html and Style.css files)
+
